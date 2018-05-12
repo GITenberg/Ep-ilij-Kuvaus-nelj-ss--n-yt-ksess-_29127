@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33709
     wikipedia: http://fi.wikipedia.org/wiki/Kalle_Aho
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29127#Ep-ilij-Kuvaus-nelj-ss--n-yt-ksess-
 gutenberg_issued: '2009-06-15'
 gutenberg_type: Text
 identifiers:
